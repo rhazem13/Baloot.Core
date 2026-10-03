@@ -17,3 +17,4 @@ dotnet build
 
 # 2. تشغيل الاختبارات وإثبات الحتمية (Run Tests)
 dotnet test --logger "console;verbosity=detailed"
+```
